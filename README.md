@@ -22,7 +22,7 @@ How to use
 
   1. clone project.
 
-  2. Copy all files in com.nozomi.listindex.view
+  2. copy all files in com.nozomi.listindex.view
 
 *Simple Example.*
 
